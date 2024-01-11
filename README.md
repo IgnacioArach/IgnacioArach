@@ -2,6 +2,8 @@
 - 👀 I’m interested in  learn to program in the future to get a job and live from this
 - 🌱 I’m currently learning  data analysis and php
 - 📫 How to reach me  https://www.linkedin.com/in/ignacio-arach-33b1b7229/
+- Professional practice project: https://github.com/Ottodrc/Proyecto-46
+
 
 <!---
 IgnacioArach/IgnacioArach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
